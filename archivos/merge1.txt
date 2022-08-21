@@ -1,0 +1,4 @@
+Juan Pablo Garcia Carballo
+edad 21
+Aumentar mis conocimientos y mis habilidades como programador
+Porque puede generar errores e inconsistencias, como el que no se haya subido este archivo en el intento de paso 12
